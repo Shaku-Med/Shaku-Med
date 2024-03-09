@@ -28,7 +28,7 @@ Hey there! 👋 Let's stay in touch and connect on various platforms. Feel free 
 
 - **LinkedIn:** [mohamed-amara-b84447247](https://www.linkedin.com/in/mohamed-amara-b84447247)
 - **Instagram:** [@amaramedzy](https://www.instagram.com/amaramedzy)
-- **Facebook:** [Your Name](https://www.facebook.com/medzy.amara.1/)
+- **Facebook:** [Medzy Ems Amara](https://www.facebook.com/medzy.amara.1/)
 
 ## Professional Networks
 
