@@ -33,6 +33,17 @@ Hey there! 👋 Let's stay in touch and connect on various platforms. Feel free 
 ## Professional Networks
 
 - **GitHub:** [Shaku-Med](https://github.com/Shaku-Med)
+
+# JUST SO YOU KNOW
+### Most of my advanced work are private
+1. ML (AI)
+2. Advanced Cryptography
+3. Mobile App
+4. Desktop App
+5. TV Apps
+... and more...
+
+   
 - **Stack Overflow:** [veronica-amara](https://stackoverflow.com/users/22563668/veronica-amara)
 - **Medium:** [@meddivero](https://medium.com/@meddivero)
 
