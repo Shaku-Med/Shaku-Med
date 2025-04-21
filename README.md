@@ -35,7 +35,7 @@ Hey there! 👋 Let's stay in touch and connect on various platforms. Feel free 
 - **GitHub:** [Shaku-Med](https://github.com/Shaku-Med)
 
 # JUST SO YOU KNOW
-### Most of my advanced work are private
+### Most of my advanced works are private
 1. ML (AI)
 2. Advanced Cryptography
 3. Mobile App
