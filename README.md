@@ -34,6 +34,10 @@ Hey there! 👋 Let's stay in touch and connect on various platforms. Feel free 
 
 - **GitHub:** [Shaku-Med](https://github.com/Shaku-Med)
 
+
+   
+- **Stack Overflow:** [veronica-amara](https://stackoverflow.com/users/22563668/veronica-amara)
+- **Medium:** [@meddivero](https://medium.com/@meddivero)
 # JUST SO YOU KNOW
 ### Most of my advanced works are private
 1. ML (AI)
@@ -42,10 +46,6 @@ Hey there! 👋 Let's stay in touch and connect on various platforms. Feel free 
 4. Desktop App
 5. TV Apps
 ... and more...
-
-   
-- **Stack Overflow:** [veronica-amara](https://stackoverflow.com/users/22563668/veronica-amara)
-- **Medium:** [@meddivero](https://medium.com/@meddivero)
 
 ## Communication
 
